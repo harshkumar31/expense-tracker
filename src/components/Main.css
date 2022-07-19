@@ -1,0 +1,37 @@
+.mainBlock{
+    border-radius: 5px;
+    box-sizing: border-box;
+    text-align: center;
+    background-color: #fff;
+    padding: 20px;
+    width: 100%;
+    max-width: 350px;
+    margin: 100px auto;
+    display: table;
+    box-shadow: 8px 8px 20px 0px rgba(0,0,0,0.75);
+}
+
+.Error {
+    padding: 10px;
+    background-color: #feeaea;
+    border: 1px solid #fadadb;
+    margin-bottom: 10px;
+    border-radius: 3px;
+}
+
+.Spinner {
+    display: table;
+    margin: 0 auto;
+}
+.Spinner > .ImgSpinner {
+    max-width: 30px;
+}
+
+.DevName {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: 10px 20px 0 0;
+    color: #fff;
+}
