@@ -1,5 +1,11 @@
 [Live Demo](https://harshkumar31.github.io/expense-tracker/)
 
+This project is aimed to help the college students who have a hard time managing their
+expenses. I have used firebase authentication for sign up and sign in features. The
+expenses of the user are stored in firebase real time database. In addition to the total
+balance of the user, total expenses, total income and list of expenses and income of the
+user are also displayed.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
